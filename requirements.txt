@@ -5,6 +5,4 @@ seaborn
 statsmodels
 prophet
 pmdarima
-math
-warnings
 pickle
